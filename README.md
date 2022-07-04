@@ -5,7 +5,7 @@ Easy script to run java files in Termux
 ## Set-up
 - Install ecj and dx by executing...
 ```bash
-   pkg install ecj dx
+pkg install ecj dx
 ```
 ## Usage
 Run the bash file and enter the class name to display output

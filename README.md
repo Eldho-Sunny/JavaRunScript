@@ -8,3 +8,5 @@ Easy script to run java files in Termux
 
 ## Usage
 Run the bash file and enter the class name to display output
+- 1class.sh : Used to run java programs with a single class
+- 2class.sh : Used to run java programs with 2 classes, Enter the class with main function first.
